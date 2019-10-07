@@ -2,7 +2,7 @@
 http://tegas.lt LPG system oscilogram analyzer and LPG injection model parameters calculator.
 
 
-This software is intended to analyze TE-Gas LPG systems logs and calculate configuration paramters for experimantal LPG injectionmodel that gives exceletn injection accuracy in all modes of operation.
+This software is intended to analyze TE-Gas LPG systems logs and calculate configuration paramters for experimantal LPG injection model that gives exceletn injection accuracy in all modes of operation.
 
 
 This repository contains document describing the model from physical point of view giving the clarification why it is working.
