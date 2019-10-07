@@ -8,3 +8,6 @@ This software is intended to analyze TE-Gas LPG systems logs and calculate confi
 This repository contains document describing the model from physical point of view giving the clarification why it is working.
 
 The software is .net code that can be compiled with Visual Studio 2015 and up. It was originaly designed on Visual Studio 2005.
+
+
+Binaries are located at OSCAnalyzer\bin\Release
