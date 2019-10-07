@@ -137,7 +137,7 @@ namespace OSCAnalyzer
             this.textBoxDescription.Size = new System.Drawing.Size(271, 126);
             this.textBoxDescription.TabIndex = 23;
             this.textBoxDescription.TabStop = false;
-            this.textBoxDescription.Text = "Tool to anaylze Tamona osc files and calculate some settings stuff";
+            this.textBoxDescription.Text = "Tool to anaylze TE-gas osc files and calculate some settings stuff";
             // 
             // okButton
             // 
